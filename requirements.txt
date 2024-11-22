@@ -1,0 +1,7 @@
+streamlit
+pandas
+nltk
+openai
+pinecone-client
+textblob
+python-dotenv
